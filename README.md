@@ -1,11 +1,9 @@
 # E-Library System
 
-## 📚 Description
+## Description
 This is a console-based E-Library system implemented in Python using key software design patterns. The system supports book management, user registration, loan processing, and notification—all using in-memory data.
 
----
-
-## 🚀 How to Run
+## How to Run
 
 1. **Download or Clone the Repository**
 2. Make sure you have **Python 3.x** installed.
@@ -13,11 +11,8 @@ This is a console-based E-Library system implemented in Python using key softwar
 4. Run the app:
 ```bash
 python main.py
-```
 
----
-
-## 📋 Features
+## Features
 
 - Add, View, Reserve, Borrow, and Return Books
 - Register Members and Librarians
@@ -26,7 +21,7 @@ python main.py
 
 ---
 
-## 🧠 Design Patterns Used
+## Design Patterns Used
 
 | Pattern Type  | Design Pattern   | Purpose |
 |---------------|------------------|---------|
@@ -39,9 +34,7 @@ python main.py
 |               | Observer          | Notifies users of due dates |
 |               | Iterator (Implicit)| Iterates over books/users list |
 
----
-
-## 🧪 Sample Commands
+##  Sample Commands
 ```
 1. Add Book
 2. View Books
